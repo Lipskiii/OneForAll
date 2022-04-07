@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "oneforall:block/stripped_fiery_log_top",
+    "side": "oneforall:block/stripped_fiery_log"
+  }
+}

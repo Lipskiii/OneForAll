@@ -1,6 +1,7 @@
 package net.lipskiii.oneforall;
 
 import com.mojang.logging.LogUtils;
+import net.lipskiii.oneforall.block.BlockInit;
 import net.lipskiii.oneforall.item.ItemInit;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
@@ -33,6 +34,7 @@ public class OneForAllMod
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ItemInit.register(eventBus);
+        BlockInit.register(eventBus);
 
         eventBus.addListener(this::setup);
 

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "oneforall:block/fiery_leaves"
+  }
+}

@@ -1,3 +1,8 @@
 {
-  "item.oneforall.chaos_gem": "Chaos Gem"
+  "item.oneforall.chaos_gem": "Chaos Gem",
+  "block.oneforall.fiery_log": "Fiery Log",
+  "block.oneforall.stripped_fiery_log": "Stripped Fiery Log",
+  "block.oneforall.fiery_wood": "Fiery Wood",
+  "block.oneforall.stripped_fiery_wood": "Stripped Fiery Wood",
+  "block.oneforall.fiery_planks": "Fiery Planks"
 }

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "oneforall:block/stripped_fiery_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "oneforall:block/stripped_fiery_log"
+    },
+    "axis=z": {
+      "model": "oneforall:block/stripped_fiery_log_horizontal",
+      "x": 90
+    }
+  }
+}

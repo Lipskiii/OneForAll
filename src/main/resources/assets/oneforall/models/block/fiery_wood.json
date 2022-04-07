@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "oneforall:block/fiery_log",
+    "side": "oneforall:block/fiery_log"
+  }
+}
